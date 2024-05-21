@@ -41,7 +41,7 @@ $ cd <repo_name>
 # instale as dependências
 $ yarn
 
-# Faça a configuração de seu banco de dados
+# Faça a configuração de seu banco de dados em src/config
 # Execute o comando npx knex migrate:up
 # O comando devera criar a tabela em seu banco de dados. 
 
